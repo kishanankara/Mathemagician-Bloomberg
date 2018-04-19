@@ -347,10 +347,6 @@ int counter;
         x++;
       }
 
-
-
-
-
         printf("%d", output_array[0]);
 
     return 0;
