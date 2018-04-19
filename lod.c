@@ -1,9 +1,3 @@
- //Problem        : Lannisters of Justice
-//Language       : C
-//Compiled Using : GCC
-//Version        : GCC 4.9.1
-//Input for your program will be provided from STDIN
-//Print out all output from your program to STDOUT
 
 #include <stdio.h>
 #include <string.h>
